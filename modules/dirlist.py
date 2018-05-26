@@ -3,7 +3,7 @@
 '''
 import os
 
-def runa(**args):
+def run(**args):
 	print("[*] in dirlist module")
 	files = os.listdir(".")
 	
